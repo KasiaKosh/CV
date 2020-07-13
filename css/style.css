@@ -1,0 +1,175 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f6f9;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+  background-color: #ffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sitebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+}
+.my-photo {
+  width: 370px;
+}
+.me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contacts {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contact-title {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.contact-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #8c929a;
+}
+.contact-c {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.tech-skills {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.tech-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.tech-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #f2670b;
+}
+.tech-text {
+  color: #acafb3;
+}
+.soft-skills {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.soft-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 23px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.info-conteiner {
+  margin-bottom: 65px;
+}
+.project-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #838383;
+}
+.techno-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #7a7a7a;
+}
+.item-pro {
+  font-weight: 700;
+  margin-left: 17px;
+}
+.project {
+  margin-bottom: 55px;
+}
+.prof {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.orange {
+  color: #ff6b08;
+}
+.date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #b8b8b8;
+}
+.black {
+  color: #000000;
+}
+.prof-duties {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+.prof-description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 17px;
+}
+.spec {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+}

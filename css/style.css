@@ -92,6 +92,18 @@ body {
   color: #ffffff;
   margin-bottom: 15px;
 }
+.other-skills {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.other-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
 .profession {
   font-size: 14px;
   font-weight: 700;

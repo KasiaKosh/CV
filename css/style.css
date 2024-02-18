@@ -135,6 +135,11 @@ body {
   font-weight: 400;
   line-height: 24px;
   color: #838383;
+  text-decoration: none;
+}
+.project-link:hover{
+  color: #f2670b;
+  text-decoration: underline;
 }
 .techno-name {
   font-size: 14px;

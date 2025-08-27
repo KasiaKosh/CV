@@ -110,6 +110,13 @@ body {
   line-height: 24px;
   margin-bottom: 23px;
 }
+.achiev {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 12px;
+    color: #333333;
+  margin-bottom: 12px;
+}
 .name {
   font-size: 45px;
   font-weight: 700;
